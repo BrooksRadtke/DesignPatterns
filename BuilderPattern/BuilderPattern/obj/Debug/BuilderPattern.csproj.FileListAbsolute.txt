@@ -1,0 +1,7 @@
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\brook\Documents\DesignPatterns\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
